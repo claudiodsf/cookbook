@@ -3,4 +3,4 @@
 
 I created a recipe but without any text, just a gif for you to know about this food.
 
-![image for Croissant](CY_croissant.webp)
+![image for Croissant](CY_croissant.jpg)
